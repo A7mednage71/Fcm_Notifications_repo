@@ -1,4 +1,4 @@
-📲 Notification Handler
+<h1>📲 Notification Handler</h1>
 A simple Flutter app to handle push notifications using Firebase Cloud Messaging (FCM).
 
 🚀 Features
